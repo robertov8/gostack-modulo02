@@ -1,0 +1,104 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.tabCompletion": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderWhitespace": "all",
+    "window.menuBarVisibility": "toggle",
+    "php.suggest.basic": false,
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "sync.gist": "0587ada7b3e2bf6fb88fab58d37bec95",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "sync.quietSync": false,
+    "editor.renderIndentGuides": true,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.sideBar.location": "left",
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "editor.fontFamily": "'Fira Code', 'Victor Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "files.associations": {
+        "*.lock": "json"
+    },
+    "editor.mouseWheelZoom": true,
+    "breadcrumbs.enabled": true,
+    "workbench.editor.enablePreview": false,
+    "editor.largeFileOptimizations": false,
+    "editor.renderControlCharacters": true,
+    "window.zoomLevel": 0.25,
+    "terminal.integrated.fontFamily": "'PowerlineSymbols', 'Fira Code'",
+    "terminal.integrated.fontWeight": "100",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.formatOnSave": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": true,
+    "[ruby]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[php]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "[css]": {
+        "editor.tabSize": 2
+    },
+    "[json]": {},
+    "logFileHighlighter.customPatterns": [
+        {
+            "pattern": "debug",
+            "foreground": "#004085",
+            "background": "#CCE5FF"
+        },
+        {
+            "pattern": "info",
+            "foreground": "#0C5460",
+            "background": "#D1ECF1"
+        },
+        {
+            "pattern": "notice",
+            "foreground": "#FFFFFF",
+            "background": "#0B2E13"
+        },
+        {
+            "pattern": "warning",
+            "foreground": "#856404",
+            "background": "#FFF3CD"
+        },
+        {
+            "pattern": "critical",
+            "foreground": "#721C24",
+            "background": "#F8D7DA"
+        }
+    ],
+    "terminal.integrated.experimentalRefreshOnResume": true,
+    "terminal.integrated.enableBell": true,
+    "eslint.alwaysShowStatus": true,
+    "diffEditor.renderSideBySide": true,
+    "explorer.autoReveal": false,
+    "editor.parameterHints.cycle": true,
+}
