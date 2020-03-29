@@ -28,6 +28,9 @@ class Database {
       useNewUrlParser: true,
       useFindAndModify: true,
       useUnifiedTopology: true,
+      auth: { authSource: 'admin' },
+      user: '',
+      pass: '',
     });
   }
 }
